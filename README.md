@@ -4,10 +4,10 @@
 
 Notes：
 
-1. 'front-end-plogg.php' is a front-end design and implemented with boostrap,CSS,etc. 'random.php' is the algorithm for back-end function, which is decribed in "
+（1）'front-end-plogg.php' is a front-end design and implemented with boostrap,CSS,etc. 'random.php' is the algorithm for back-end function, which is decribed in "
 Project description" below.
  
-For example: 
+（2）Functions example: 
  Total=200, Baseline=20, and chose two start date as 2020-06-03 and end date as 2020-06-11, click 'RECHERCHER' will display the random result as required. See the following two screenshots. 
  
  
